@@ -15,5 +15,10 @@ public class Day2Demo {
 		
 	}
 	
+	public void getResult() {
+		
+		System.out.println(2+3);
+	}
+	
 
 }
