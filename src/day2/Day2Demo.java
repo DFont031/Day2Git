@@ -20,5 +20,9 @@ public class Day2Demo {
 		System.out.println(2+3);
 	}
 	
+	public void test() {
+		
+		System.out.println("testing...");
+	}
 
 }
