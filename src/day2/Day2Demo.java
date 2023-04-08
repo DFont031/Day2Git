@@ -6,6 +6,13 @@ public class Day2Demo {
 		System.out.println("Pushing code...");
 		
 		System.out.println("Pushing second time...");
+		
+		
+	}
+	
+	public void getresult() {
+	
+		
 	}
 	
 
