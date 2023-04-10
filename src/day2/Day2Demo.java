@@ -30,4 +30,6 @@ public class Day2Demo {
 
 	String firstName = "John";
 	
+	String practice = "gitHub";
+	
 }
